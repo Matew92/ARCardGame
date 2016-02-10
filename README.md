@@ -1,7 +1,7 @@
-#Augmented Reality Furniture Magazine
+#Augmented Reality Card Game
 ###Mixed Reality and Tangible Interfaces project
-#####By Petr Devaikin and Matteo Lever
+#####By Mattia Chenet
 
-Our project models a new way of exploring and evaluating items found in furniture shop magazines.
+Our project models a new way of playing card game with augmented reality.
 
-Thanks to special markers found in the magazine and an application installed on your smartphone, it’s possible to see and compare virtual representations of the furniture.
+Thanks to special markers found in the magazine and an application installed on your smartphone, it’s possible to play like in a YU-GI-OH cartoon.
